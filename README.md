@@ -1,6 +1,6 @@
 # Hi, I'm Alexander 👋
 
-**QA Engineer & Developer from Lviv, Ukraine — Head of Quality Assurance
+**Developer & QA Engineer from Lviv, Ukraine — Head of Quality Assurance
 at Solid Solutions.** For 7+ years I have tested commercial software — and
 I bring the same habit to everything I build myself: I don't trust a demo,
 a summary, or a green checkmark. I check it with tests, real data, and a
@@ -67,7 +67,7 @@ mobile apps — including hard-to-reproduce bugs.
 | Project | What it does |
 | --- | --- |
 | [crypto-radar](https://github.com/Revcrew/crypto-radar) | Detects sharp crypto perpetual and DEX moves across 7 exchanges, sends Telegram alerts, and keeps a paper journal to test — with frozen rules — whether following or fading the move works |
-| [l2-deathwatch](https://github.com/Revcrew/l2-deathwatch) | Hourly monitor for official L2 shutdown announcements from public RSS/news sources, with classification rules and Telegram alerts. Monitoring only, no trading |
+| [Research-L2](https://github.com/Revcrew/l2-deathwatch) | Hourly monitor for official L2 shutdown announcements from public RSS/news sources, with classification rules and Telegram alerts. Monitoring only, no trading |
 | [honest-btc-backtester](https://github.com/Revcrew/honest-btc-backtester) | A rule-based BTC backtester on Binance data with fees, out-of-sample checks and a sensitivity grid — whose honest verdict is that the strategy is not tradable |
 
 All three are built with AI assistance, ship with tests or reproducible
@@ -77,7 +77,7 @@ results, and document their failures as openly as their successes.
 
 Python · JavaScript · PHP · Selenium · Cypress · Codeception · Postman ·
 Swagger · Docker · Git · Jira · TestRail · GitHub Actions · Telegram bots ·
-Linux/systemd · AI coding assistants
+Linux/systemd · AI coding assistants with Codex
 
 ## Now
 
