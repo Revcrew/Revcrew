@@ -81,7 +81,7 @@ Linux/systemd · AI coding assistants with Codex
 
 ## Now
 
-- Building AI-assisted QA tooling and documenting AI in testing for
+- Building with Codex AI QA tooling and documenting in testing for
   builders in Eastern Europe, in English, Ukrainian and Polish
 - Running crypto monitors and paper research where the rules are frozen
   before the start — and the FAIL verdicts get published too
